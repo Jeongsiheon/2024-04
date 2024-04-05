@@ -2,4 +2,4 @@
 2024-04
 
 
-## sample 1 branch 수정
+## sample 1 branch 수정 2024.04.05 금요일
